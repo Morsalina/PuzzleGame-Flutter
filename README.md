@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Introduction
 
-This project is a starting point for a Flutter application.
+This project is a game which is built using flutter. This is a puzzle game and consists of numbers through 1 to 19. Player needs to rearrange the numbers in increasing manner. When a player sort the puzzle, he/she wins. 
 
-A few resources to get you started if this is your first Flutter project:
+There is a field which keeps tract of number of move a player has made. Also there is a timer that shows total time taken by a player to solve the puzzle. As soon as a player starts playing, the timer begins.  There is a button "Reset Puzzle" to reset the game from begining.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
