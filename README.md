@@ -9,4 +9,7 @@ This project is a game which is built using flutter. This is a puzzle game and c
 There is a field which keeps tract of number of move a player has made. Also there is a timer that shows total time taken by a player to solve the puzzle. As soon as a player starts playing, the timer begins.  There is a button "Reset Puzzle" to reset the game from begining.
 
 
+## Snapshots
+![Image 1](img/1.jpeg)
+![Image 2](img/2.jpeg)
 
